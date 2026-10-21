@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://felixseo.com/sitemap-index.xml
